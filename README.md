@@ -65,7 +65,7 @@ StaffTrack/
 ```bash
 # Clone the repository
 git clone [your-repo-url]
-cd EMS
+cd StaffTrack
 
 # Install dependencies
 npm install
