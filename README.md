@@ -7,7 +7,7 @@ StaffTrack is a modern, intelligent employee management system designed to strea
 Frontend
 
 ## Deployed App
-[Frontend](https://taskflowpero.netlify.app/)
+[Frontend](https://staff-track-kohl.vercel.app/)
 
 ## Directory Structure
 ```
