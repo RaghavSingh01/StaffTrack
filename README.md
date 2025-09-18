@@ -11,7 +11,7 @@ Frontend
 
 ## Directory Structure
 ```
-EMS/
+StaffTrack/
 ├─ src/
 │  ├─ components/
 │  │  ├─ Auth/
